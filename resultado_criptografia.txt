@@ -1,0 +1,4 @@
+Palavra codificada: fqkzbm 
+SHIFT: 4 
+Tipo: Fibonacci 
+Letras: 6

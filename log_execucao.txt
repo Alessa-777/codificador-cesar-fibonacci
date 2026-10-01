@@ -1,0 +1,8 @@
+Palavra original: alessa
+Quantidade de letras: 6
+SHIFT: 5
+Tipo de sequencia: Fibonacci
+Termos usados: 1 1 2 3 5 8 
+Camada 1 (Cesar): fqjxxf
+Camada 2 (sequencia): grlacn
+----------

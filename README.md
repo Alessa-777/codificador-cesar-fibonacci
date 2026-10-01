@@ -42,7 +42,7 @@ Cálculo interno:
 
 ## Integrantes
 
-- Nome Alessa Araujo
-- Nome Paulo Sergio
-- Nome Matheus Ferreira
-- Nome Otávio Teixeira
+- Alessa Araujo
+- Paulo Sergio
+- Matheus Ferreira
+- Otávio Teixeira
